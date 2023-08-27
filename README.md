@@ -67,5 +67,5 @@ Run **`task1test.py`** to demonstrate the roll, pitch, yaw, takeoff and land cap
 ## Documentation
 
 The documentation of all codes can be found here.
-[Task 1 Documentation](https://github.com/aman765m/Inter_IIT_23_task1_team27/blob/master/Task1_code_documentation.pdf)
+[Task 1 Documentation](https://github.com/rajsurya1012/Inter_IIT_23_task1_team27/blob/master/Task1_code_documentation.pdf)
 
