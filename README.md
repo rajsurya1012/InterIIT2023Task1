@@ -1,6 +1,6 @@
 
 # Inter_IIT_23_task1_team27
-
+Authors: Raj Surya, Aman Singh
 Contains codes for sending MSP packets to pluto drone via wireless communication. Also has codes to fly pluto using the packets with sequential functions and keyboard commands.
 
 
